@@ -7,6 +7,8 @@ import AVFoundation
 import AVKit
 import Contacts
 // some comment
+
+// test commemt
 enum Direction: String {
     case left = "left"
     case right = "right"
