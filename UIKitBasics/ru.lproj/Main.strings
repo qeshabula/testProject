@@ -1,0 +1,75 @@
+
+/* Class = "UIButton"; configuration.title = ">>"; ObjectID = "849-YM-1tW"; */
+"849-YM-1tW.configuration.title" = ">>";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "849-YM-1tW"; */
+"849-YM-1tW.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Label with constraints"; ObjectID = "Cxv-i3-Oyo"; */
+"Cxv-i3-Oyo.text" = "Label with constraints";
+
+/* Class = "UIButton"; disabledTitle = "DISABLED"; ObjectID = "Fr6-xQ-gb3"; */
+"Fr6-xQ-gb3.disabledTitle" = "DISABLED";
+
+/* Class = "UIButton"; normalTitle = "ACTIVE"; ObjectID = "Fr6-xQ-gb3"; */
+"Fr6-xQ-gb3.normalTitle" = "ACTIVE";
+
+/* Class = "UIButton"; selectedTitle = "SELECTED"; ObjectID = "Fr6-xQ-gb3"; */
+"Fr6-xQ-gb3.selectedTitle" = "SELECTED";
+
+/* Class = "UIButton"; configuration.title = "BACK"; ObjectID = "OgS-vl-D1M"; */
+"OgS-vl-D1M.configuration.title" = "BACK";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "OgS-vl-D1M"; */
+"OgS-vl-D1M.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Back"; ObjectID = "ROP-3A-hXg"; */
+"ROP-3A-hXg.configuration.title" = "Back";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "ROP-3A-hXg"; */
+"ROP-3A-hXg.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "FirstButton"; ObjectID = "b79-7I-Vcl"; */
+"b79-7I-Vcl.configuration.title" = "Кнопка";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "b79-7I-Vcl"; */
+"b79-7I-Vcl.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Load"; ObjectID = "bGz-D3-Tnu"; */
+"bGz-D3-Tnu.configuration.title" = "Load";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "bGz-D3-Tnu"; */
+"bGz-D3-Tnu.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Save"; ObjectID = "iVi-sR-f9h"; */
+"iVi-sR-f9h.configuration.title" = "Save";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "iVi-sR-f9h"; */
+"iVi-sR-f9h.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "prv-AI-jEW"; */
+"prv-AI-jEW.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "q01-uG-Uaj"; */
+"q01-uG-Uaj.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "uGR-Vq-y5N"; */
+"uGR-Vq-y5N.text" = "Label";
+
+/* Class = "UIButton"; configuration.title = "+"; ObjectID = "uYN-PV-Of2"; */
+"uYN-PV-Of2.configuration.title" = "+";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "uYN-PV-Of2"; */
+"uYN-PV-Of2.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "<<"; ObjectID = "uaJ-I2-LFT"; */
+"uaJ-I2-LFT.configuration.title" = "<<";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "uaJ-I2-LFT"; */
+"uaJ-I2-LFT.normalTitle" = "Button";
+
+/* Class = "UITextField"; placeholder = "Enter text here"; ObjectID = "ydG-1g-zAp"; */
+"ydG-1g-zAp.placeholder" = "Введите текст";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "8kd-Cd-flG.text; */
+"8kd-Cd-flG.text" = "Клевая метка";
