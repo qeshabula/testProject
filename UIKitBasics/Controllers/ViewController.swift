@@ -6,7 +6,7 @@ import CoreLocation
 import AVFoundation
 import AVKit
 import Contacts
-
+// some comment
 enum Direction: String {
     case left = "left"
     case right = "right"
